@@ -1,0 +1,15 @@
+{
+  "name": "genpark-presburger-arithmetic-linear-integer-solver-skill",
+  "version": "1.0.0",
+  "description": "Presburger linear integer arithmetic solver for safety guard synthesis.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "presburger-arithmetic",
+    "linear-integer-solver",
+    "smt-solver",
+    "safety-guards",
+    "agentic-ai"
+  ]
+}
